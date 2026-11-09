@@ -1,0 +1,15 @@
+Time resolution is 1 ps
+Note: PE0 sub-shift OK (35)
+Time: 76 ns  Iteration: 0  Process: /tb_pe/stim  File: C:/Users/Aniket Patil/ACPU/CGRA_prethesis/CGRA_prethesis.srcs/sources_1/imports/rtl/tb_pe.vhd
+Note: PE1 add-shift via W OK (24)
+Time: 86 ns  Iteration: 0  Process: /tb_pe/stim  File: C:/Users/Aniket Patil/ACPU/CGRA_prethesis/CGRA_prethesis.srcs/sources_1/imports/rtl/tb_pe.vhd
+Note: PE0 one-shot holds OK (35)
+Time: 96 ns  Iteration: 0  Process: /tb_pe/stim  File: C:/Users/Aniket Patil/ACPU/CGRA_prethesis/CGRA_prethesis.srcs/sources_1/imports/rtl/tb_pe.vhd
+Note: acc 1 OK (3)
+Time: 116 ns  Iteration: 0  Process: /tb_pe/stim  File: C:/Users/Aniket Patil/ACPU/CGRA_prethesis/CGRA_prethesis.srcs/sources_1/imports/rtl/tb_pe.vhd
+Note: acc 2 OK (6)
+Time: 126 ns  Iteration: 0  Process: /tb_pe/stim  File: C:/Users/Aniket Patil/ACPU/CGRA_prethesis/CGRA_prethesis.srcs/sources_1/imports/rtl/tb_pe.vhd
+Note: acc 3 OK (9)
+Time: 136 ns  Iteration: 0  Process: /tb_pe/stim  File: C:/Users/Aniket Patil/ACPU/CGRA_prethesis/CGRA_prethesis.srcs/sources_1/imports/rtl/tb_pe.vhd
+Note: ALL TESTS PASSED
+Time: 136 ns  Iteration: 0  Process: /tb_pe/stim  File: C:/Users/Aniket Patil/ACPU/CGRA_prethesis/CGRA_prethesis.srcs/sources_1/imports/rtl/tb_pe.vhd

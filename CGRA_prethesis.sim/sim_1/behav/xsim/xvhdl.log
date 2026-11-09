@@ -1,0 +1,5 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Aniket Patil/ACPU/CGRA_prethesis/CGRA_prethesis.srcs/sources_1/imports/rtl/pe_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Aniket Patil/ACPU/CGRA_prethesis/CGRA_prethesis.srcs/sources_1/imports/rtl/pe.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pe'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Aniket Patil/ACPU/CGRA_prethesis/CGRA_prethesis.srcs/sources_1/imports/rtl/tb_pe.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_pe'
